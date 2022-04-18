@@ -1,0 +1,286 @@
+/* _content/MiPortafolioWeb/Views/Home/Contacto.cshtml.rz.scp.css */
+.skills[b-8x4h5en0tz] {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px;
+	margin: 8px;
+	transition: all 4ms ease;
+}
+
+.backend[b-8x4h5en0tz] {
+	width: 350px;
+	height: 470px;
+	margin: 2px;
+	padding: 12px;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	background: #ebebeb;
+	box-shadow: 2px 3px 3px rgba(166,166,166,0.4);
+	text-align: center;
+	position:relative;
+}
+
+li[b-8x4h5en0tz] {
+	list-style: none;
+	line-height: 2.5;
+}
+p[b-8x4h5en0tz]{
+	font-weight:bold;
+	text-align:center;
+	font-size:22px;
+	text-align:center;
+	margin-top:10px;
+	padding-top:12px;
+}
+
+.backend .icon svg[b-8x4h5en0tz]{
+	width:50px;
+	height:50px;
+	
+}
+.backend .icon[b-8x4h5en0tz] {
+	width:100%;
+	heigh:70px;
+	position: absolute;
+	top:0;
+	right:0;
+	background:Highlight;
+	margin-bottom:10px;
+	padding:12px;
+	border-radius:8px;
+	align-items:center;
+	text-align:center;
+}
+/* _content/MiPortafolioWeb/Views/Home/Gracias.cshtml.rz.scp.css */
+html[b-2c97yq9vch]{
+	scroll-behavior:smooth;
+}
+
+.backImage[b-2c97yq9vch]{
+	width:100%;
+	height:auto;
+}
+/* _content/MiPortafolioWeb/Views/Home/Index.cshtml.rz.scp.css */
+html[b-j0bewgpi27]{
+	scroll-behavior:smooth;
+}
+
+.backImage[b-j0bewgpi27]{
+	width:100%;
+	height:auto;
+}
+/* _content/MiPortafolioWeb/Views/Home/Proyectos.cshtml.rz.scp.css */
+.container[b-4uyiprxsij]{
+	width:100%;
+	height:auto;
+	margin:10px;
+	padding:10px;
+}
+.card[b-4uyiprxsij]{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	align-items:center;
+	justify-content:space-evenly;
+	column-gap:10px;
+}
+.container .cards[b-4uyiprxsij] {
+		width: 350px;
+		height: 450px;
+		text-align: center;
+		border: 1px solid #fff;
+		box-shadow: 1px 2px 2px rgba(166,166,166,0.5);
+		background: #fff;
+		border-radius: 8px;
+		margin-bottom:8px;
+		transition:all 4ms ease;
+}
+.container .cards:hover[b-4uyiprxsij] {
+	box-shadow: 4px 5px 5px rgba(167,166,166,0.5);
+	transform:translateY(-3);
+}
+img[b-4uyiprxsij]{
+	width:100%;
+	height:250px;
+	margin-bottom:4px;
+}
+h2[b-4uyiprxsij]{font-size:28px;font-weight:bold;margin:8px;}
+h3[b-4uyiprxsij]{
+	font-size:25px;
+	font-weight:bold;
+	margin:4px;
+}
+p[b-4uyiprxsij]{
+	font-weight:bold;
+	text-align:center;
+	font-size:22px;
+}
+.boton[b-4uyiprxsij]{position:center;}
+.boton a[b-4uyiprxsij]{
+	margin-bottom:10px;
+}
+/* _content/MiPortafolioWeb/Views/Home/_Habilidades.cshtml.rz.scp.css */
+.skills[b-egt54x4zdy] {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px;
+	margin: 8px;
+	transition: all 4ms ease;
+}
+
+.backend[b-egt54x4zdy] {
+	width: 350px;
+	height: 470px;
+	margin: 2px;
+	padding: 12px;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	background: #ebebeb;
+	box-shadow: 2px 3px 3px rgba(166,166,166,0.4);
+	text-align: center;
+	position:relative;
+}
+
+li[b-egt54x4zdy] {
+	list-style: none;
+	line-height: 2.5;
+}
+p[b-egt54x4zdy]{
+	font-weight:bold;
+	text-align:center;
+	font-size:22px;
+	text-align:center;
+	margin-top:10px;
+	padding-top:12px;
+}
+
+.backend .icon svg[b-egt54x4zdy]{
+	width:50px;
+	height:50px;
+	
+}
+.backend .icon[b-egt54x4zdy] {
+	width:100%;
+	heigh:70px;
+	position: absolute;
+	top:0;
+	right:0;
+	background:Highlight;
+	margin-bottom:10px;
+	padding:12px;
+	border-radius:8px;
+	align-items:center;
+	text-align:center;
+}
+/* _content/MiPortafolioWeb/Views/Home/_ListadoProyectos.cshtml.rz.scp.css */
+.card[b-84gzw8ujpk]{
+	display:inline-grid;
+	grid-template-columns:1fr 1fr 1fr;
+	column-gap:10px;
+}
+.container .cards[b-84gzw8ujpk] {
+		width: 350px;
+		height: 450px;
+		text-align: center;
+		border: 1px solid #fff;
+		box-shadow: 2px 3px 3px rgba(166,166,166,0.5);
+		background: #fff;
+		border-radius: 8px;
+		margin-bottom:8px;
+		transition:all 4ms ease;
+}
+.container .cards:hover[b-84gzw8ujpk] {
+	box-shadow: 4px 5px 5px rgba(167,166,166,0.5);
+	transform:translateY(-3);
+}
+img[b-84gzw8ujpk]{
+	width:100%;
+	height:250px;
+	margin-bottom:4px;
+}
+h2[b-84gzw8ujpk]{font-size:28px;font-weight:bold;margin:8px;}
+h3[b-84gzw8ujpk]{
+	font-size:25px;
+	font-weight:bold;
+	margin:4px;
+}
+p[b-84gzw8ujpk]{
+	font-weight:bold;
+	text-align:center;
+	font-size:22px;
+}
+.boton[b-84gzw8ujpk]{position:center;}
+.boton a[b-84gzw8ujpk]{
+	margin-bottom:10px;
+}
+/* _content/MiPortafolioWeb/Views/Home/_Presentacion.cshtml.rz.scp.css */
+.container[b-o1bpsnx5r3] {
+	margin-bottom: 10px;
+	padding: 12px;
+	align-content:center;
+}
+.backImage img[b-o1bpsnx5r3]{
+	width:450px;
+	height:250px;
+	margin-bottom:10px;
+	padding:12px;
+}
+.profile img[b-o1bpsnx5r3]{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	margin-top:12px;
+}
+h1[b-o1bpsnx5r3]{font-size:28px;font-weight:bold;}
+
+/* _content/MiPortafolioWeb/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-4fkks3qpld] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-4fkks3qpld] {
+  color: #0077cc;
+}
+
+.btn-primary[b-4fkks3qpld] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-4fkks3qpld], .nav-pills .show > .nav-link[b-4fkks3qpld] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-4fkks3qpld] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-4fkks3qpld] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-4fkks3qpld] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-4fkks3qpld] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-4fkks3qpld] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

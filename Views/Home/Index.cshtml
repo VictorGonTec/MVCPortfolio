@@ -1,0 +1,17 @@
+﻿@model HomeIndexView
+@{
+    ViewData["Title"] = "Pagina Principal";
+}
+
+<section class="text-center" id="presentacion">
+    <partial name="_Presentacion" />
+</section>
+
+<section class="text-center" id="Habilidades">
+<partial name="_Habilidades"/>
+</section>
+
+<section class="text-center" id="proyectos" padding=10px marging=10px>
+    <partial name="_ListadoProyectos" model="Model.Proyectos"/>
+</section>
+

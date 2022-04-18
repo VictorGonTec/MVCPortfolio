@@ -1,0 +1,53 @@
+.skills[b-8x4h5en0tz] {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px;
+	margin: 8px;
+	transition: all 4ms ease;
+}
+
+.backend[b-8x4h5en0tz] {
+	width: 350px;
+	height: 470px;
+	margin: 2px;
+	padding: 12px;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	background: #ebebeb;
+	box-shadow: 2px 3px 3px rgba(166,166,166,0.4);
+	text-align: center;
+	position:relative;
+}
+
+li[b-8x4h5en0tz] {
+	list-style: none;
+	line-height: 2.5;
+}
+p[b-8x4h5en0tz]{
+	font-weight:bold;
+	text-align:center;
+	font-size:22px;
+	text-align:center;
+	margin-top:10px;
+	padding-top:12px;
+}
+
+.backend .icon svg[b-8x4h5en0tz]{
+	width:50px;
+	height:50px;
+	
+}
+.backend .icon[b-8x4h5en0tz] {
+	width:100%;
+	heigh:70px;
+	position: absolute;
+	top:0;
+	right:0;
+	background:Highlight;
+	margin-bottom:10px;
+	padding:12px;
+	border-radius:8px;
+	align-items:center;
+	text-align:center;
+}
